@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="premainTest:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/premainTest_jar</output-path>
+    <root id="archive" name="premainTest.jar">
+      <element id="module-output" name="premainTest" />
+    </root>
+  </artifact>
+</component>
